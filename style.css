@@ -136,7 +136,7 @@ nav.sticky .menu-btn{
   margin-left: -3px;
 }
 .home .text-three{
-  font-size: 40px;
+  font-size: 30px;
   margin: 5px 0;
   color: #4070f4;
 }
@@ -144,6 +144,7 @@ nav.sticky .menu-btn{
   font-size: 23px;
   margin: 5px 0;
   color: #0E2431;
+  width: 50%;
 }
 .home .button{
   margin: 14px 0;
@@ -154,15 +155,16 @@ nav.sticky .menu-btn{
   border-radius: 6px;
   font-size: 25px;
   font-weight: 400;
-  background: #4070f4;
+  background: #4070f400;
   color: #fff;
   cursor: pointer;
   border: 2px solid transparent;
-  transition: all 0.4s ease;
+  transition: all 0.5s ease;
+  font-family: 'Ubuntu', sans-serif;
 }
 .home .button button:hover{
   border-color: #4070f4;
-  background-color: #95989a;
+  background-color: #58a3fa4b;
   color: #4070f4;
 }
 
